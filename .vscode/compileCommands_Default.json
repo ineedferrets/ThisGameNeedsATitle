@@ -1,0 +1,122 @@
+[
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\ThisGameNeedsATitle.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\ThisGameNeedsATitle.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\ThisGameNeedsATitle.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\ThisGameNeedsATitleCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\ThisGameNeedsATitleCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\ThisGameNeedsATitleGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\ThisGameNeedsATitleGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\ThisGameNeedsATitlePlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\ThisGameNeedsATitlePlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\ThisGameNeedsATitleProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ThisGameNeedsATitle\\Source\\ThisGameNeedsATitle\\ThisGameNeedsATitleProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ThisGameNeedsATitle\\.vscode\\compileCommands_Default\\ThisGameNeedsATitle.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
